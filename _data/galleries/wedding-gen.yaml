@@ -1,0 +1,708 @@
+pictures:
+- filename: 01_Prepare_1.jpg
+  original: wedding-1200/01_Prepare_1.jpg
+  sizes:
+    - wedding-1200/01_Prepare_1.jpg
+    - wedding-800/01_Prepare_1.jpg
+    - wedding-480/01_Prepare_1.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_1.jpg
+- filename: 01_Prepare_10.jpg
+  original: wedding-1200/01_Prepare_10.jpg
+  sizes:
+    - wedding-1200/01_Prepare_10.jpg
+    - wedding-800/01_Prepare_10.jpg
+    - wedding-480/01_Prepare_10.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_10.jpg
+- filename: 01_Prepare_12.jpg
+  original: wedding-1200/01_Prepare_12.jpg
+  sizes:
+    - wedding-1200/01_Prepare_12.jpg
+    - wedding-800/01_Prepare_12.jpg
+    - wedding-480/01_Prepare_12.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_12.jpg
+- filename: 01_Prepare_13.jpg
+  original: wedding-1200/01_Prepare_13.jpg
+  sizes:
+    - wedding-1200/01_Prepare_13.jpg
+    - wedding-800/01_Prepare_13.jpg
+    - wedding-480/01_Prepare_13.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_13.jpg
+- filename: 01_Prepare_14.jpg
+  original: wedding-1200/01_Prepare_14.jpg
+  sizes:
+    - wedding-1200/01_Prepare_14.jpg
+    - wedding-800/01_Prepare_14.jpg
+    - wedding-480/01_Prepare_14.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_14.jpg
+- filename: 01_Prepare_17.jpg
+  original: wedding-1200/01_Prepare_17.jpg
+  sizes:
+    - wedding-1200/01_Prepare_17.jpg
+    - wedding-800/01_Prepare_17.jpg
+    - wedding-480/01_Prepare_17.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_17.jpg
+- filename: 01_Prepare_18.jpg
+  original: wedding-1200/01_Prepare_18.jpg
+  sizes:
+    - wedding-1200/01_Prepare_18.jpg
+    - wedding-800/01_Prepare_18.jpg
+    - wedding-480/01_Prepare_18.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_18.jpg
+- filename: 01_Prepare_19.jpg
+  original: wedding-1200/01_Prepare_19.jpg
+  sizes:
+    - wedding-1200/01_Prepare_19.jpg
+    - wedding-800/01_Prepare_19.jpg
+    - wedding-480/01_Prepare_19.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_19.jpg
+- filename: 01_Prepare_2.jpg
+  original: wedding-1200/01_Prepare_2.jpg
+  sizes:
+    - wedding-1200/01_Prepare_2.jpg
+    - wedding-800/01_Prepare_2.jpg
+    - wedding-480/01_Prepare_2.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_2.jpg
+- filename: 01_Prepare_20.jpg
+  original: wedding-1200/01_Prepare_20.jpg
+  sizes:
+    - wedding-1200/01_Prepare_20.jpg
+    - wedding-800/01_Prepare_20.jpg
+    - wedding-480/01_Prepare_20.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_20.jpg
+- filename: 01_Prepare_3.1.jpg
+  original: wedding-1200/01_Prepare_3.1.jpg
+  sizes:
+    - wedding-1200/01_Prepare_3.1.jpg
+    - wedding-800/01_Prepare_3.1.jpg
+    - wedding-480/01_Prepare_3.1.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_3.1.jpg
+- filename: 01_Prepare_3.2.jpg
+  original: wedding-1200/01_Prepare_3.2.jpg
+  sizes:
+    - wedding-1200/01_Prepare_3.2.jpg
+    - wedding-800/01_Prepare_3.2.jpg
+    - wedding-480/01_Prepare_3.2.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_3.2.jpg
+- filename: 01_Prepare_3.3.jpg
+  original: wedding-1200/01_Prepare_3.3.jpg
+  sizes:
+    - wedding-1200/01_Prepare_3.3.jpg
+    - wedding-800/01_Prepare_3.3.jpg
+    - wedding-480/01_Prepare_3.3.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_3.3.jpg
+- filename: 01_Prepare_4.jpg
+  original: wedding-1200/01_Prepare_4.jpg
+  sizes:
+    - wedding-1200/01_Prepare_4.jpg
+    - wedding-800/01_Prepare_4.jpg
+    - wedding-480/01_Prepare_4.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_4.jpg
+- filename: 01_Prepare_5.jpg
+  original: wedding-1200/01_Prepare_5.jpg
+  sizes:
+    - wedding-1200/01_Prepare_5.jpg
+    - wedding-800/01_Prepare_5.jpg
+    - wedding-480/01_Prepare_5.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_5.jpg
+- filename: 01_Prepare_6.jpg
+  original: wedding-1200/01_Prepare_6.jpg
+  sizes:
+    - wedding-1200/01_Prepare_6.jpg
+    - wedding-800/01_Prepare_6.jpg
+    - wedding-480/01_Prepare_6.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_6.jpg
+- filename: 01_Prepare_7.jpg
+  original: wedding-1200/01_Prepare_7.jpg
+  sizes:
+    - wedding-1200/01_Prepare_7.jpg
+    - wedding-800/01_Prepare_7.jpg
+    - wedding-480/01_Prepare_7.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_7.jpg
+- filename: 01_Prepare_9.jpg
+  original: wedding-1200/01_Prepare_9.jpg
+  sizes:
+    - wedding-1200/01_Prepare_9.jpg
+    - wedding-800/01_Prepare_9.jpg
+    - wedding-480/01_Prepare_9.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_9.jpg
+- filename: 02_FirstLook_1.jpg
+  original: wedding-1200/02_FirstLook_1.jpg
+  sizes:
+    - wedding-1200/02_FirstLook_1.jpg
+    - wedding-800/02_FirstLook_1.jpg
+    - wedding-480/02_FirstLook_1.jpg
+  thumbnail: wedding-thumbnails/02_FirstLook_1.jpg
+- filename: 02_FirstLook_2.jpg
+  original: wedding-1200/02_FirstLook_2.jpg
+  sizes:
+    - wedding-1200/02_FirstLook_2.jpg
+    - wedding-800/02_FirstLook_2.jpg
+    - wedding-480/02_FirstLook_2.jpg
+  thumbnail: wedding-thumbnails/02_FirstLook_2.jpg
+- filename: 02_FirstLook_3.jpg
+  original: wedding-1200/02_FirstLook_3.jpg
+  sizes:
+    - wedding-1200/02_FirstLook_3.jpg
+    - wedding-800/02_FirstLook_3.jpg
+    - wedding-480/02_FirstLook_3.jpg
+  thumbnail: wedding-thumbnails/02_FirstLook_3.jpg
+- filename: 02_FirstLook_4.jpg
+  original: wedding-1200/02_FirstLook_4.jpg
+  sizes:
+    - wedding-1200/02_FirstLook_4.jpg
+    - wedding-800/02_FirstLook_4.jpg
+    - wedding-480/02_FirstLook_4.jpg
+  thumbnail: wedding-thumbnails/02_FirstLook_4.jpg
+- filename: 02_FirstLook_5.jpg
+  original: wedding-1200/02_FirstLook_5.jpg
+  sizes:
+    - wedding-1200/02_FirstLook_5.jpg
+    - wedding-800/02_FirstLook_5.jpg
+    - wedding-480/02_FirstLook_5.jpg
+  thumbnail: wedding-thumbnails/02_FirstLook_5.jpg
+- filename: 03_Church_01.jpg
+  original: wedding-1200/03_Church_01.jpg
+  sizes:
+    - wedding-1200/03_Church_01.jpg
+    - wedding-800/03_Church_01.jpg
+    - wedding-480/03_Church_01.jpg
+  thumbnail: wedding-thumbnails/03_Church_01.jpg
+- filename: 03_Church_02.1.jpg
+  original: wedding-1200/03_Church_02.1.jpg
+  sizes:
+    - wedding-1200/03_Church_02.1.jpg
+    - wedding-800/03_Church_02.1.jpg
+    - wedding-480/03_Church_02.1.jpg
+  thumbnail: wedding-thumbnails/03_Church_02.1.jpg
+- filename: 03_Church_03.2.jpg
+  original: wedding-1200/03_Church_03.2.jpg
+  sizes:
+    - wedding-1200/03_Church_03.2.jpg
+    - wedding-800/03_Church_03.2.jpg
+    - wedding-480/03_Church_03.2.jpg
+  thumbnail: wedding-thumbnails/03_Church_03.2.jpg
+- filename: 03_Church_04.jpg
+  original: wedding-1200/03_Church_04.jpg
+  sizes:
+    - wedding-1200/03_Church_04.jpg
+    - wedding-800/03_Church_04.jpg
+    - wedding-480/03_Church_04.jpg
+  thumbnail: wedding-thumbnails/03_Church_04.jpg
+- filename: 03_Church_05.1.jpg
+  original: wedding-1200/03_Church_05.1.jpg
+  sizes:
+    - wedding-1200/03_Church_05.1.jpg
+    - wedding-800/03_Church_05.1.jpg
+    - wedding-480/03_Church_05.1.jpg
+  thumbnail: wedding-thumbnails/03_Church_05.1.jpg
+- filename: 03_Church_05.2.jpg
+  original: wedding-1200/03_Church_05.2.jpg
+  sizes:
+    - wedding-1200/03_Church_05.2.jpg
+    - wedding-800/03_Church_05.2.jpg
+    - wedding-480/03_Church_05.2.jpg
+  thumbnail: wedding-thumbnails/03_Church_05.2.jpg
+- filename: 03_Church_05.4.jpg
+  original: wedding-1200/03_Church_05.4.jpg
+  sizes:
+    - wedding-1200/03_Church_05.4.jpg
+    - wedding-800/03_Church_05.4.jpg
+    - wedding-480/03_Church_05.4.jpg
+  thumbnail: wedding-thumbnails/03_Church_05.4.jpg
+- filename: 03_Church_05.5.jpg
+  original: wedding-1200/03_Church_05.5.jpg
+  sizes:
+    - wedding-1200/03_Church_05.5.jpg
+    - wedding-800/03_Church_05.5.jpg
+    - wedding-480/03_Church_05.5.jpg
+  thumbnail: wedding-thumbnails/03_Church_05.5.jpg
+- filename: 03_Church_06.jpg
+  original: wedding-1200/03_Church_06.jpg
+  sizes:
+    - wedding-1200/03_Church_06.jpg
+    - wedding-800/03_Church_06.jpg
+    - wedding-480/03_Church_06.jpg
+  thumbnail: wedding-thumbnails/03_Church_06.jpg
+- filename: 03_Church_07.jpg
+  original: wedding-1200/03_Church_07.jpg
+  sizes:
+    - wedding-1200/03_Church_07.jpg
+    - wedding-800/03_Church_07.jpg
+    - wedding-480/03_Church_07.jpg
+  thumbnail: wedding-thumbnails/03_Church_07.jpg
+- filename: 03_Church_08.jpg
+  original: wedding-1200/03_Church_08.jpg
+  sizes:
+    - wedding-1200/03_Church_08.jpg
+    - wedding-800/03_Church_08.jpg
+    - wedding-480/03_Church_08.jpg
+  thumbnail: wedding-thumbnails/03_Church_08.jpg
+- filename: 03_Church_09.1.jpg
+  original: wedding-1200/03_Church_09.1.jpg
+  sizes:
+    - wedding-1200/03_Church_09.1.jpg
+    - wedding-800/03_Church_09.1.jpg
+    - wedding-480/03_Church_09.1.jpg
+  thumbnail: wedding-thumbnails/03_Church_09.1.jpg
+- filename: 03_Church_09.2.jpg
+  original: wedding-1200/03_Church_09.2.jpg
+  sizes:
+    - wedding-1200/03_Church_09.2.jpg
+    - wedding-800/03_Church_09.2.jpg
+    - wedding-480/03_Church_09.2.jpg
+  thumbnail: wedding-thumbnails/03_Church_09.2.jpg
+- filename: 03_Church_10.1.jpg
+  original: wedding-1200/03_Church_10.1.jpg
+  sizes:
+    - wedding-1200/03_Church_10.1.jpg
+    - wedding-800/03_Church_10.1.jpg
+    - wedding-480/03_Church_10.1.jpg
+  thumbnail: wedding-thumbnails/03_Church_10.1.jpg
+- filename: 03_Church_10.2.jpg
+  original: wedding-1200/03_Church_10.2.jpg
+  sizes:
+    - wedding-1200/03_Church_10.2.jpg
+    - wedding-800/03_Church_10.2.jpg
+    - wedding-480/03_Church_10.2.jpg
+  thumbnail: wedding-thumbnails/03_Church_10.2.jpg
+- filename: 03_Church_12.1.jpg
+  original: wedding-1200/03_Church_12.1.jpg
+  sizes:
+    - wedding-1200/03_Church_12.1.jpg
+    - wedding-800/03_Church_12.1.jpg
+    - wedding-480/03_Church_12.1.jpg
+  thumbnail: wedding-thumbnails/03_Church_12.1.jpg
+- filename: 03_Church_12.2.jpg
+  original: wedding-1200/03_Church_12.2.jpg
+  sizes:
+    - wedding-1200/03_Church_12.2.jpg
+    - wedding-800/03_Church_12.2.jpg
+    - wedding-480/03_Church_12.2.jpg
+  thumbnail: wedding-thumbnails/03_Church_12.2.jpg
+- filename: 03_Church_13.1.jpg
+  original: wedding-1200/03_Church_13.1.jpg
+  sizes:
+    - wedding-1200/03_Church_13.1.jpg
+    - wedding-800/03_Church_13.1.jpg
+    - wedding-480/03_Church_13.1.jpg
+  thumbnail: wedding-thumbnails/03_Church_13.1.jpg
+- filename: 03_Church_13.2.jpg
+  original: wedding-1200/03_Church_13.2.jpg
+  sizes:
+    - wedding-1200/03_Church_13.2.jpg
+    - wedding-800/03_Church_13.2.jpg
+    - wedding-480/03_Church_13.2.jpg
+  thumbnail: wedding-thumbnails/03_Church_13.2.jpg
+- filename: 03_Church_14.jpg
+  original: wedding-1200/03_Church_14.jpg
+  sizes:
+    - wedding-1200/03_Church_14.jpg
+    - wedding-800/03_Church_14.jpg
+    - wedding-480/03_Church_14.jpg
+  thumbnail: wedding-thumbnails/03_Church_14.jpg
+- filename: 03_Church_15.jpg
+  original: wedding-1200/03_Church_15.jpg
+  sizes:
+    - wedding-1200/03_Church_15.jpg
+    - wedding-800/03_Church_15.jpg
+    - wedding-480/03_Church_15.jpg
+  thumbnail: wedding-thumbnails/03_Church_15.jpg
+- filename: 04_Stanford_01.jpg
+  original: wedding-1200/04_Stanford_01.jpg
+  sizes:
+    - wedding-1200/04_Stanford_01.jpg
+    - wedding-800/04_Stanford_01.jpg
+    - wedding-480/04_Stanford_01.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_01.jpg
+- filename: 04_Stanford_02.jpg
+  original: wedding-1200/04_Stanford_02.jpg
+  sizes:
+    - wedding-1200/04_Stanford_02.jpg
+    - wedding-800/04_Stanford_02.jpg
+    - wedding-480/04_Stanford_02.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_02.jpg
+- filename: 04_Stanford_03.jpg
+  original: wedding-1200/04_Stanford_03.jpg
+  sizes:
+    - wedding-1200/04_Stanford_03.jpg
+    - wedding-800/04_Stanford_03.jpg
+    - wedding-480/04_Stanford_03.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_03.jpg
+- filename: 04_Stanford_05.jpg
+  original: wedding-1200/04_Stanford_05.jpg
+  sizes:
+    - wedding-1200/04_Stanford_05.jpg
+    - wedding-800/04_Stanford_05.jpg
+    - wedding-480/04_Stanford_05.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_05.jpg
+- filename: 04_Stanford_06.0.jpg
+  original: wedding-1200/04_Stanford_06.0.jpg
+  sizes:
+    - wedding-1200/04_Stanford_06.0.jpg
+    - wedding-800/04_Stanford_06.0.jpg
+    - wedding-480/04_Stanford_06.0.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_06.0.jpg
+- filename: 04_Stanford_06.1.jpg
+  original: wedding-1200/04_Stanford_06.1.jpg
+  sizes:
+    - wedding-1200/04_Stanford_06.1.jpg
+    - wedding-800/04_Stanford_06.1.jpg
+    - wedding-480/04_Stanford_06.1.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_06.1.jpg
+- filename: 04_Stanford_06.2.jpg
+  original: wedding-1200/04_Stanford_06.2.jpg
+  sizes:
+    - wedding-1200/04_Stanford_06.2.jpg
+    - wedding-800/04_Stanford_06.2.jpg
+    - wedding-480/04_Stanford_06.2.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_06.2.jpg
+- filename: 04_Stanford_07.jpg
+  original: wedding-1200/04_Stanford_07.jpg
+  sizes:
+    - wedding-1200/04_Stanford_07.jpg
+    - wedding-800/04_Stanford_07.jpg
+    - wedding-480/04_Stanford_07.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_07.jpg
+- filename: 04_Stanford_08.jpg
+  original: wedding-1200/04_Stanford_08.jpg
+  sizes:
+    - wedding-1200/04_Stanford_08.jpg
+    - wedding-800/04_Stanford_08.jpg
+    - wedding-480/04_Stanford_08.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_08.jpg
+- filename: 04_Stanford_09.jpg
+  original: wedding-1200/04_Stanford_09.jpg
+  sizes:
+    - wedding-1200/04_Stanford_09.jpg
+    - wedding-800/04_Stanford_09.jpg
+    - wedding-480/04_Stanford_09.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_09.jpg
+- filename: 04_Stanford_10.jpg
+  original: wedding-1200/04_Stanford_10.jpg
+  sizes:
+    - wedding-1200/04_Stanford_10.jpg
+    - wedding-800/04_Stanford_10.jpg
+    - wedding-480/04_Stanford_10.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_10.jpg
+- filename: 04_Stanford_11.jpg
+  original: wedding-1200/04_Stanford_11.jpg
+  sizes:
+    - wedding-1200/04_Stanford_11.jpg
+    - wedding-800/04_Stanford_11.jpg
+    - wedding-480/04_Stanford_11.jpg
+  thumbnail: wedding-thumbnails/04_Stanford_11.jpg
+- filename: 05_Venue_00.jpg
+  original: wedding-1200/05_Venue_00.jpg
+  sizes:
+    - wedding-1200/05_Venue_00.jpg
+    - wedding-800/05_Venue_00.jpg
+    - wedding-480/05_Venue_00.jpg
+  thumbnail: wedding-thumbnails/05_Venue_00.jpg
+- filename: 05_Venue_01.0.jpg
+  original: wedding-1200/05_Venue_01.0.jpg
+  sizes:
+    - wedding-1200/05_Venue_01.0.jpg
+    - wedding-800/05_Venue_01.0.jpg
+    - wedding-480/05_Venue_01.0.jpg
+  thumbnail: wedding-thumbnails/05_Venue_01.0.jpg
+- filename: 05_Venue_01.1.jpg
+  original: wedding-1200/05_Venue_01.1.jpg
+  sizes:
+    - wedding-1200/05_Venue_01.1.jpg
+    - wedding-800/05_Venue_01.1.jpg
+    - wedding-480/05_Venue_01.1.jpg
+  thumbnail: wedding-thumbnails/05_Venue_01.1.jpg
+- filename: 05_Venue_01.2.jpg
+  original: wedding-1200/05_Venue_01.2.jpg
+  sizes:
+    - wedding-1200/05_Venue_01.2.jpg
+    - wedding-800/05_Venue_01.2.jpg
+    - wedding-480/05_Venue_01.2.jpg
+  thumbnail: wedding-thumbnails/05_Venue_01.2.jpg
+- filename: 05_Venue_01.3.jpg
+  original: wedding-1200/05_Venue_01.3.jpg
+  sizes:
+    - wedding-1200/05_Venue_01.3.jpg
+    - wedding-800/05_Venue_01.3.jpg
+    - wedding-480/05_Venue_01.3.jpg
+  thumbnail: wedding-thumbnails/05_Venue_01.3.jpg
+- filename: 05_Venue_03.jpg
+  original: wedding-1200/05_Venue_03.jpg
+  sizes:
+    - wedding-1200/05_Venue_03.jpg
+    - wedding-800/05_Venue_03.jpg
+    - wedding-480/05_Venue_03.jpg
+  thumbnail: wedding-thumbnails/05_Venue_03.jpg
+- filename: 05_Venue_04.jpg
+  original: wedding-1200/05_Venue_04.jpg
+  sizes:
+    - wedding-1200/05_Venue_04.jpg
+    - wedding-800/05_Venue_04.jpg
+    - wedding-480/05_Venue_04.jpg
+  thumbnail: wedding-thumbnails/05_Venue_04.jpg
+- filename: 05_Venue_06.1.jpg
+  original: wedding-1200/05_Venue_06.1.jpg
+  sizes:
+    - wedding-1200/05_Venue_06.1.jpg
+    - wedding-800/05_Venue_06.1.jpg
+    - wedding-480/05_Venue_06.1.jpg
+  thumbnail: wedding-thumbnails/05_Venue_06.1.jpg
+- filename: 05_Venue_06.2.jpg
+  original: wedding-1200/05_Venue_06.2.jpg
+  sizes:
+    - wedding-1200/05_Venue_06.2.jpg
+    - wedding-800/05_Venue_06.2.jpg
+    - wedding-480/05_Venue_06.2.jpg
+  thumbnail: wedding-thumbnails/05_Venue_06.2.jpg
+- filename: 05_Venue_07.jpg
+  original: wedding-1200/05_Venue_07.jpg
+  sizes:
+    - wedding-1200/05_Venue_07.jpg
+    - wedding-800/05_Venue_07.jpg
+    - wedding-480/05_Venue_07.jpg
+  thumbnail: wedding-thumbnails/05_Venue_07.jpg
+- filename: 05_Venue_08.jpg
+  original: wedding-1200/05_Venue_08.jpg
+  sizes:
+    - wedding-1200/05_Venue_08.jpg
+    - wedding-800/05_Venue_08.jpg
+    - wedding-480/05_Venue_08.jpg
+  thumbnail: wedding-thumbnails/05_Venue_08.jpg
+- filename: 05_Venue_09.jpg
+  original: wedding-1200/05_Venue_09.jpg
+  sizes:
+    - wedding-1200/05_Venue_09.jpg
+    - wedding-800/05_Venue_09.jpg
+    - wedding-480/05_Venue_09.jpg
+  thumbnail: wedding-thumbnails/05_Venue_09.jpg
+- filename: 06_Dinner_00.jpg
+  original: wedding-1200/06_Dinner_00.jpg
+  sizes:
+    - wedding-1200/06_Dinner_00.jpg
+    - wedding-800/06_Dinner_00.jpg
+    - wedding-480/06_Dinner_00.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_00.jpg
+- filename: 06_Dinner_01.jpg
+  original: wedding-1200/06_Dinner_01.jpg
+  sizes:
+    - wedding-1200/06_Dinner_01.jpg
+    - wedding-800/06_Dinner_01.jpg
+    - wedding-480/06_Dinner_01.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_01.jpg
+- filename: 06_Dinner_02.jpg
+  original: wedding-1200/06_Dinner_02.jpg
+  sizes:
+    - wedding-1200/06_Dinner_02.jpg
+    - wedding-800/06_Dinner_02.jpg
+    - wedding-480/06_Dinner_02.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_02.jpg
+- filename: 06_Dinner_03.jpg
+  original: wedding-1200/06_Dinner_03.jpg
+  sizes:
+    - wedding-1200/06_Dinner_03.jpg
+    - wedding-800/06_Dinner_03.jpg
+    - wedding-480/06_Dinner_03.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_03.jpg
+- filename: 06_Dinner_04.jpg
+  original: wedding-1200/06_Dinner_04.jpg
+  sizes:
+    - wedding-1200/06_Dinner_04.jpg
+    - wedding-800/06_Dinner_04.jpg
+    - wedding-480/06_Dinner_04.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_04.jpg
+- filename: 06_Dinner_05.1.jpg
+  original: wedding-1200/06_Dinner_05.1.jpg
+  sizes:
+    - wedding-1200/06_Dinner_05.1.jpg
+    - wedding-800/06_Dinner_05.1.jpg
+    - wedding-480/06_Dinner_05.1.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_05.1.jpg
+- filename: 06_Dinner_05.2.jpg
+  original: wedding-1200/06_Dinner_05.2.jpg
+  sizes:
+    - wedding-1200/06_Dinner_05.2.jpg
+    - wedding-800/06_Dinner_05.2.jpg
+    - wedding-480/06_Dinner_05.2.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_05.2.jpg
+- filename: 06_Dinner_05.3.jpg
+  original: wedding-1200/06_Dinner_05.3.jpg
+  sizes:
+    - wedding-1200/06_Dinner_05.3.jpg
+    - wedding-800/06_Dinner_05.3.jpg
+    - wedding-480/06_Dinner_05.3.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_05.3.jpg
+- filename: 06_Dinner_06.1.jpg
+  original: wedding-1200/06_Dinner_06.1.jpg
+  sizes:
+    - wedding-1200/06_Dinner_06.1.jpg
+    - wedding-800/06_Dinner_06.1.jpg
+    - wedding-480/06_Dinner_06.1.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_06.1.jpg
+- filename: 06_Dinner_06.3.jpg
+  original: wedding-1200/06_Dinner_06.3.jpg
+  sizes:
+    - wedding-1200/06_Dinner_06.3.jpg
+    - wedding-800/06_Dinner_06.3.jpg
+    - wedding-480/06_Dinner_06.3.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_06.3.jpg
+- filename: 06_Dinner_06.6.jpg
+  original: wedding-1200/06_Dinner_06.6.jpg
+  sizes:
+    - wedding-1200/06_Dinner_06.6.jpg
+    - wedding-800/06_Dinner_06.6.jpg
+    - wedding-480/06_Dinner_06.6.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_06.6.jpg
+- filename: 06_Dinner_06.7.jpg
+  original: wedding-1200/06_Dinner_06.7.jpg
+  sizes:
+    - wedding-1200/06_Dinner_06.7.jpg
+    - wedding-800/06_Dinner_06.7.jpg
+    - wedding-480/06_Dinner_06.7.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_06.7.jpg
+- filename: 06_Dinner_07.jpg
+  original: wedding-1200/06_Dinner_07.jpg
+  sizes:
+    - wedding-1200/06_Dinner_07.jpg
+    - wedding-800/06_Dinner_07.jpg
+    - wedding-480/06_Dinner_07.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_07.jpg
+- filename: 06_Dinner_08.0.jpg
+  original: wedding-1200/06_Dinner_08.0.jpg
+  sizes:
+    - wedding-1200/06_Dinner_08.0.jpg
+    - wedding-800/06_Dinner_08.0.jpg
+    - wedding-480/06_Dinner_08.0.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_08.0.jpg
+- filename: 06_Dinner_08.1.jpg
+  original: wedding-1200/06_Dinner_08.1.jpg
+  sizes:
+    - wedding-1200/06_Dinner_08.1.jpg
+    - wedding-800/06_Dinner_08.1.jpg
+    - wedding-480/06_Dinner_08.1.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_08.1.jpg
+- filename: 06_Dinner_08.2.jpg
+  original: wedding-1200/06_Dinner_08.2.jpg
+  sizes:
+    - wedding-1200/06_Dinner_08.2.jpg
+    - wedding-800/06_Dinner_08.2.jpg
+    - wedding-480/06_Dinner_08.2.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_08.2.jpg
+- filename: 06_Dinner_09.jpg
+  original: wedding-1200/06_Dinner_09.jpg
+  sizes:
+    - wedding-1200/06_Dinner_09.jpg
+    - wedding-800/06_Dinner_09.jpg
+    - wedding-480/06_Dinner_09.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_09.jpg
+- filename: 06_Dinner_10.jpg
+  original: wedding-1200/06_Dinner_10.jpg
+  sizes:
+    - wedding-1200/06_Dinner_10.jpg
+    - wedding-800/06_Dinner_10.jpg
+    - wedding-480/06_Dinner_10.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_10.jpg
+- filename: 06_Dinner_11.jpg
+  original: wedding-1200/06_Dinner_11.jpg
+  sizes:
+    - wedding-1200/06_Dinner_11.jpg
+    - wedding-800/06_Dinner_11.jpg
+    - wedding-480/06_Dinner_11.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_11.jpg
+- filename: 06_Dinner_12.jpg
+  original: wedding-1200/06_Dinner_12.jpg
+  sizes:
+    - wedding-1200/06_Dinner_12.jpg
+    - wedding-800/06_Dinner_12.jpg
+    - wedding-480/06_Dinner_12.jpg
+  thumbnail: wedding-thumbnails/06_Dinner_12.jpg
+- filename: 07_Game_01.jpg
+  original: wedding-1200/07_Game_01.jpg
+  sizes:
+    - wedding-1200/07_Game_01.jpg
+    - wedding-800/07_Game_01.jpg
+    - wedding-480/07_Game_01.jpg
+  thumbnail: wedding-thumbnails/07_Game_01.jpg
+- filename: 07_Game_02.jpg
+  original: wedding-1200/07_Game_02.jpg
+  sizes:
+    - wedding-1200/07_Game_02.jpg
+    - wedding-800/07_Game_02.jpg
+    - wedding-480/07_Game_02.jpg
+  thumbnail: wedding-thumbnails/07_Game_02.jpg
+- filename: 07_Game_03.jpg
+  original: wedding-1200/07_Game_03.jpg
+  sizes:
+    - wedding-1200/07_Game_03.jpg
+    - wedding-800/07_Game_03.jpg
+    - wedding-480/07_Game_03.jpg
+  thumbnail: wedding-thumbnails/07_Game_03.jpg
+- filename: 07_Game_04.jpg
+  original: wedding-1200/07_Game_04.jpg
+  sizes:
+    - wedding-1200/07_Game_04.jpg
+    - wedding-800/07_Game_04.jpg
+    - wedding-480/07_Game_04.jpg
+  thumbnail: wedding-thumbnails/07_Game_04.jpg
+- filename: 08_Cake_00.jpg
+  original: wedding-1200/08_Cake_00.jpg
+  sizes:
+    - wedding-1200/08_Cake_00.jpg
+    - wedding-800/08_Cake_00.jpg
+    - wedding-480/08_Cake_00.jpg
+  thumbnail: wedding-thumbnails/08_Cake_00.jpg
+- filename: 08_Cake_01.jpg
+  original: wedding-1200/08_Cake_01.jpg
+  sizes:
+    - wedding-1200/08_Cake_01.jpg
+    - wedding-800/08_Cake_01.jpg
+    - wedding-480/08_Cake_01.jpg
+  thumbnail: wedding-thumbnails/08_Cake_01.jpg
+- filename: 08_Toast_01.jpg
+  original: wedding-1200/08_Toast_01.jpg
+  sizes:
+    - wedding-1200/08_Toast_01.jpg
+    - wedding-800/08_Toast_01.jpg
+    - wedding-480/08_Toast_01.jpg
+  thumbnail: wedding-thumbnails/08_Toast_01.jpg
+- filename: 09_Toast_03.jpg
+  original: wedding-1200/09_Toast_03.jpg
+  sizes:
+    - wedding-1200/09_Toast_03.jpg
+    - wedding-800/09_Toast_03.jpg
+    - wedding-480/09_Toast_03.jpg
+  thumbnail: wedding-thumbnails/09_Toast_03.jpg
+- filename: 09_Toast_04.jpg
+  original: wedding-1200/09_Toast_04.jpg
+  sizes:
+    - wedding-1200/09_Toast_04.jpg
+    - wedding-800/09_Toast_04.jpg
+    - wedding-480/09_Toast_04.jpg
+  thumbnail: wedding-thumbnails/09_Toast_04.jpg
+- filename: 10_Toss_01.jpg
+  original: wedding-1200/10_Toss_01.jpg
+  sizes:
+    - wedding-1200/10_Toss_01.jpg
+    - wedding-800/10_Toss_01.jpg
+    - wedding-480/10_Toss_01.jpg
+  thumbnail: wedding-thumbnails/10_Toss_01.jpg
+- filename: 10_Toss_02.jpg
+  original: wedding-1200/10_Toss_02.jpg
+  sizes:
+    - wedding-1200/10_Toss_02.jpg
+    - wedding-800/10_Toss_02.jpg
+    - wedding-480/10_Toss_02.jpg
+  thumbnail: wedding-thumbnails/10_Toss_02.jpg
+- filename: 10_Toss_03.jpg
+  original: wedding-1200/10_Toss_03.jpg
+  sizes:
+    - wedding-1200/10_Toss_03.jpg
+    - wedding-800/10_Toss_03.jpg
+    - wedding-480/10_Toss_03.jpg
+  thumbnail: wedding-thumbnails/10_Toss_03.jpg
+- filename: 10_Toss_04.jpg
+  original: wedding-1200/10_Toss_04.jpg
+  sizes:
+    - wedding-1200/10_Toss_04.jpg
+    - wedding-800/10_Toss_04.jpg
+    - wedding-480/10_Toss_04.jpg
+  thumbnail: wedding-thumbnails/10_Toss_04.jpg

@@ -1,0 +1,21 @@
+pictures:
+- filename: 01_Prepare_1
+  original: wedding-1200/01_Prepare_1.jpg
+  sizes:
+    - wedding-1200/01_Prepare_1.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_1.jpg
+- filename: 01_Prepare_2
+  original: wedding-1200/01_Prepare_2.jpg
+  sizes:
+    - wedding-1200/01_Prepare_2.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_2.jpg
+- filename: 01_Prepare_3.1
+  original: wedding-1200/01_Prepare_3.1.jpg
+  sizes:
+    - wedding-1200/01_Prepare_3.1.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_3.1.jpg
+- filename: 01_Prepare_3.2
+  original: wedding-1200/01_Prepare_3.2.jpg
+  sizes:
+    - wedding-1200/01_Prepare_3.2.jpg
+  thumbnail: wedding-thumbnails/01_Prepare_3.2.jpg

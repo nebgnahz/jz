@@ -1,2 +1,6 @@
-# jz
-JZ--a Jekyll template for responsive images and videos
+jz
+---
+
+JZ--a Jekyll template for responsive images and videos.
+
+

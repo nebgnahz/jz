@@ -1,0 +1,33 @@
+---
+---
+
+$default-width: 100%;
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* force scrollbar, prevents initial gap */
+html {
+    overflow-y: scroll;
+}
+
+.image-wrapper,
+.gallery-sizer {
+    width: $default-width;
+}
+
+.grid-item {
+    margin-bottom: 10px;
+}
+
+.grid-sizer {
+    width: 24%;
+}
+
+.gutter-sizer {
+    width: 1%;
+}
+

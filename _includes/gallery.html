@@ -1,0 +1,25 @@
+<div id="gallery" class="gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  <div id="grid-sizer" class="grid-sizer"></div>
+  <div id="gutter-sizer" class="gutter-sizer"></div>
+  {% for picture in include.gallery.pictures %}
+  <div class="grid-item image-wrapper">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ picture.original }}"
+       data-responsive="{% for size in picture.sizes %}
+                        {{ site.url}}{{ site.baseurl }}/assets/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}"
+       class="image"
+       {% if picture.title %}
+       data-sub-html="<div class='lg-toolbar caption'>
+                      <h4>{{ picture.title | escape }}</h4>
+                      {% if picture.caption %}
+       <p>{{ picture.caption | escape }}</p>
+       {% endif %}</div>"
+       {% endif %}
+       >
+      <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/{{ picture.thumbnail }}" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
+<script src="{{ site.url }}{{ site.baseurl }}/js/gallery.js" />
