@@ -10,9 +10,9 @@ do
 - filename: $f
   original: wedding-1200/$f
   sizes:
-    - wedding-1200/$f
-    - wedding-800/$f
     - wedding-480/$f
+    - wedding-800/$f
+    - wedding-1200/$f
   thumbnail: wedding-thumbnails/$f
 EOF
 

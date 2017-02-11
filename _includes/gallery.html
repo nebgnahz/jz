@@ -5,8 +5,7 @@
   {% for picture in include.gallery.pictures %}
   <div class="grid-item image-wrapper">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ picture.original }}"
-       data-responsive="{% for size in picture.sizes %}
-                        {{ site.url}}{{ site.baseurl }}/assets/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}"
+       data-responsive="{% for size in picture.sizes %}{{ site.url}}{{ site.baseurl }}/assets/{{ size }} {{ size | split: '/' | first | split: '-' | last | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}"
        class="image"
        {% if picture.title %}
        data-sub-html="<div class='lg-toolbar caption'>
