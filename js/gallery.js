@@ -3,20 +3,22 @@ $(document).ready(function() {
     thumbnail: false,
     selector: '.image'
   });
-});
 
-// init isotope
-var $grid = $("#gallery").isotope({
-    percentPosition: true,
-    columnWidth: "#gallery-sizer",
-    itemSelector: ".image-wrapper",
-    layoutMode: "masonry",
-    masonry: {
-        gutter: 10
-    }
-});
+    // init isotope
+    var $grid = $("#gallery").isotope({
+        percentPosition: true,
+        columnWidth: "#gallery-sizer",
+        itemSelector: ".image-wrapper",
+        layoutMode: "masonry",
+        masonry: {
+            columnWidth: '.grid-sizer',
+            gutter: '.gutter-sizer'
+        }
+    });
 
-// layout Isotope after each image loads
-//$grid.imagesLoaded().progress(function() {
-//  $grid.masonry();
-//});
+    // layout Isotope after each image loads
+    $grid.imagesLoaded().progress(
+        function() {
+            $grid.isotope('layout');
+        });
+});
