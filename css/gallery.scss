@@ -32,7 +32,7 @@ html {
 
 .grid-item img {
   display: block;
-  max-width: 100%;
+  width: 100%;
 }
 
 .grid-item,
@@ -47,7 +47,7 @@ html {
 @media (max-width: 600px) {
     .grid-item,
     .grid-sizer {
-        width: 49%;
+        width: 99%;
     }
 }
 
