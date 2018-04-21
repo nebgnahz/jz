@@ -3,7 +3,7 @@ title: Joanne and Zheng
 email: nebgnahz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jz.ladymarry.xyz"
+# url: "http://jz.ladymarry.xyz"
 
 # Build settings
 markdown: kramdown
